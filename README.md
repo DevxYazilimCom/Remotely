@@ -122,7 +122,7 @@ The following steps will configure your Windows 10 machine for building the Remo
     * Link: https://git-scm.com/downloads
 * Install the latest LTS Node:
 	* Link: https://nodejs.org/
-* Clone the git repository: `git clone https://github.com/immense/Remotely`
+* Clone the git repository: `git clone https://github.com/DevxYazilimCom/Remotely`
 * When debugging, the agent will use a pre-defined device ID and connect to https://localhost:5001.
 * In development environment, the server will assign all connecting agents to the first organization.
 * The above two allow you to debug the agent and server together, and see your device in the list.
